@@ -52,7 +52,7 @@
     ]
   },
   "dependencies": {
-    "tippy.js": "^6.3.1"
+    "tippy.js": "https://github.com/kreskohq/tippyjs"
   },
   "peerDependencies": {
     "react": ">=16.8",
